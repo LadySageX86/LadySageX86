@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @spenito76
+- 👋 Hi, I’m Spencer W. Smith
 - 👀 I’m interested in cross-platform game development
 - 🌱 I’m currently learning SDL2
 - 💞️ I’m looking to collaborate on games
