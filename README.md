@@ -1,6 +1,6 @@
 - 👋 Hi, I’m S.W. Smith
 - 👀 I’m interested in cross-platform game development
-- 🌱 I’m currently learning SDL2
+- 🌱 I’m currently learning Three.js
 - 💞️ I’m looking to collaborate on games
 - 📫 How to reach me: spencerwayne310@gmail.com
 
